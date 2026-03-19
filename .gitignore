@@ -1,0 +1,7 @@
+.vscode
+*.sqlite
+*report*
+add_cuda
+main
+nsys*
+!nsys_easy
